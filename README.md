@@ -1,6 +1,6 @@
 # test-merge
 
-Github pages hanya akan membaca file dengan nama:
+Github pages is only read this file:
 - index.html 
 - index.md 
 - README.md
